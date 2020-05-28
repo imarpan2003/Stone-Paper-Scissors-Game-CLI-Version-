@@ -23,3 +23,7 @@ Hope you understand the Mechanics !
 Install python using conda
 
 $ sudo conda install python=3.8
+
+# Install the required packages using pip 
+
+$ pip install -r requirements.txt
