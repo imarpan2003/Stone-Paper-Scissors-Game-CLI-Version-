@@ -1,5 +1,5 @@
 
-This is the CLI version of Rock, Paper, Scissors game. Sadly it doesn't inclde fancy graphics since I am new to programming !
+This is the CLI version of Rock, Paper, Scissors game. Sadly it doesn't include fancy graphics since I am new to programming !
 Some of the Commands of the game are as follows != 
 
 1. 1 stands for Stone
